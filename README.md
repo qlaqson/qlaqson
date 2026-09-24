@@ -14,16 +14,20 @@ The project separates private communication from public verification so that mes
 
 ## Current status
 
-**MVP Alpha 0.1 — In development**
+**MVP Alpha 0.1 — Stage E10**
 
-Current work includes:
+Development has moved from architecture design into active implementation and protocol validation.
 
-- persistent QS ID
-- multi-device identity
-- encrypted messaging
-- private proof layer
-- public verification ledger
-- implementation and validation of the MVP architecture
+Current progress includes:
+
+- staged client/server implementation
+- dedicated development server
+- TLS certificate generation
+- server certificate pinning
+- E8/E9 baseline integration
+- preparation for full client/server validation
+
+The next milestone is end-to-end validation of the Stage E10 server flow.
 
 ## Development approach
 
